@@ -1,0 +1,3 @@
+Assets/**.shader linguist-detectable=false
+Assets/**.hlsl linguist-detectable=false
+Assets/**.cginc linguist-detectable=false

@@ -1,4 +1,4 @@
-Assets/**.shader linguist-detectable=false
-Assets/**.shadergraph linguist-detectable=false
-Assets/**.hlsl linguist-detectable=false
-Assets/**.cginc linguist-detectable=false
+Assets/**/*.shader linguist-detectable=false
+Assets/**/*.shadergraph linguist-detectable=false
+Assets/**/*.hlsl linguist-detectable=false
+Assets/**/*.cginc linguist-detectable=false
